@@ -1,1 +1,1 @@
-# Kidney-disease-classification-MLflow-DVC
+# Kidney-Disease-Classification-MLflow-DVC
